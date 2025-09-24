@@ -12,14 +12,14 @@ df = pd.DataFrame(data)
 now = datetime.utcnow().isoformat()
 df['updated_at'] = now
 
-print(df.head())  # Debug: show DataFrame
+print(df.head())
 
 #Supa base logic
 url = "https://rgajvixmvdtoeuojjiaa.supabase.co"
 key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJnYWp2aXhtdmR0b2V1b2pqaWFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU3MTUyNTMsImV4cCI6MjA3MTI5MTI1M30.mFVi4YyBG1epPeq5nQlWB8ODjl0RGfg1qRppUQGooI8"
 supabase: Client = create_client(url, key)
 
-table_name = "nfl_rushing_2024_2025"  #Table for 2024-2025 NFL rushing stats
+table_name = "nfl_rushing_2024_2025"
 
 #Update and insert
 for _, row in df.iterrows():
