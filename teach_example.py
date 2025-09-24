@@ -66,8 +66,5 @@ response = client.chat.completions.create(
 )
 print("GPT API Response:")
 print(response.choices[0].message.content)
-# NOTE: Create a .env file with the following (do not commit it):
-# GPT_API_KEY=your_key_here
-# GPT_API_ENDPOINT=your_endpoint_here
-# GPT_DEPLOYMENT=gpt-4o
+
 
