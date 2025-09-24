@@ -42,7 +42,6 @@ print(extracted_data)
 with open('data/raw_blob.txt', 'w') as f:
     json.dump(extracted_data, f, indent=2)
 #Gpt api call and instructions for LLM
-# Initialize the GPT API client
 endpoint = os.getenv("GPT_API_ENDPOINT", "<your-endpoint-here>")
 api_key = os.getenv("GPT_API_KEY", "<your-api-key-here>")
 deployment_name = os.getenv("GPT_DEPLOYMENT", "gpt-4o")
