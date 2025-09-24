@@ -1,0 +1,127 @@
+[
+  {
+    "Name": "Saquon Barkley S. Barkley",
+    "Rushing Yards": "2,199",
+    "Rushing Touchdowns": "15"
+  },
+  {
+    "Name": "Derrick Henry D. Henry",
+    "Rushing Yards": "2,163",
+    "Rushing Touchdowns": "19"
+  },
+  {
+    "Name": "Jonathan Taylor J. Taylor",
+    "Rushing Yards": "1,769",
+    "Rushing Touchdowns": "14"
+  },
+  {
+    "Name": "Bijan Robinson B. Robinson",
+    "Rushing Yards": "1,695",
+    "Rushing Touchdowns": "14"
+  },
+  {
+    "Name": "Jahmyr Gibbs J. Gibbs",
+    "Rushing Yards": "1,592",
+    "Rushing Touchdowns": "19"
+  },
+  {
+    "Name": "Kyren Williams K. Williams",
+    "Rushing Yards": "1,525",
+    "Rushing Touchdowns": "15"
+  },
+  {
+    "Name": "Josh Jacobs J. Jacobs",
+    "Rushing Yards": "1,509",
+    "Rushing Touchdowns": "17"
+  },
+  {
+    "Name": "Chuba Hubbard C. Hubbard",
+    "Rushing Yards": "1,363",
+    "Rushing Touchdowns": "10"
+  },
+  {
+    "Name": "Bucky Irving B. Irving",
+    "Rushing Yards": "1,296",
+    "Rushing Touchdowns": "8"
+  },
+  {
+    "Name": "James Cook III J. Cook III",
+    "Rushing Yards": "1,293",
+    "Rushing Touchdowns": "20"
+  },
+  {
+    "Name": "Tony Pollard T. Pollard",
+    "Rushing Yards": "1,276",
+    "Rushing Touchdowns": "6"
+  },
+  {
+    "Name": "James Conner J. Conner",
+    "Rushing Yards": "1,189",
+    "Rushing Touchdowns": "9"
+  },
+  {
+    "Name": "Aaron Jones Sr. A. Jones Sr.",
+    "Rushing Yards": "1,184",
+    "Rushing Touchdowns": "5"
+  },
+  {
+    "Name": "Alvin Kamara A. Kamara",
+    "Rushing Yards": "1,136",
+    "Rushing Touchdowns": "7"
+  },
+  {
+    "Name": "Rico Dowdle R. Dowdle",
+    "Rushing Yards": "1,130",
+    "Rushing Touchdowns": "3"
+  },
+  {
+    "Name": "J.K. Dobbins",
+    "Rushing Yards": "1,127",
+    "Rushing Touchdowns": "12"
+  },
+  {
+    "Name": "D'Andre Swift D. Swift",
+    "Rushing Yards": "1,108",
+    "Rushing Touchdowns": "7"
+  },
+  {
+    "Name": "Najee Harris N. Harris",
+    "Rushing Yards": "1,104",
+    "Rushing Touchdowns": "6"
+  },
+  {
+    "Name": "Chase Brown C. Brown",
+    "Rushing Yards": "1,083",
+    "Rushing Touchdowns": "8"
+  },
+  {
+    "Name": "De'Von Achane D. Achane",
+    "Rushing Yards": "1,054",
+    "Rushing Touchdowns": "6"
+  },
+  {
+    "Name": "Lamar Jackson L. Jackson",
+    "Rushing Yards": "1,033",
+    "Rushing Touchdowns": "5"
+  },
+  {
+    "Name": "Breece Hall B. Hall",
+    "Rushing Yards": "1,033",
+    "Rushing Touchdowns": "5"
+  },
+  {
+    "Name": "Joe Mixon J. Mixon",
+    "Rushing Yards": "1,016",
+    "Rushing Touchdowns": "11"
+  },
+  {
+    "Name": "David Montgomery D. Montgomery",
+    "Rushing Yards": "1,008",
+    "Rushing Touchdowns": "15"
+  },
+  {
+    "Name": "Jordan Mason J. Mason",
+    "Rushing Yards": "1,003",
+    "Rushing Touchdowns": "5"
+  }
+]

@@ -1,0 +1,11 @@
+# Ignore environment variables and secrets
+.env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# VS Code settings
+.vscode/
+# macOS system files
+.DS_Store
