@@ -10,7 +10,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36'
 }
 
-# Get HTML for troubleshooting
+#Get HTML for troubleshooting
 html_response = requests.get(scrap_url, headers=headers)
 soup = BeautifulSoup(html_response.text, "html.parser")
 table = soup.find("table")  
@@ -66,5 +66,8 @@ response = client.chat.completions.create(
 )
 print("GPT API Response:")
 print(response.choices[0].message.content)
-
+# NOTE: Create a .env file with the following (do not commit it):
+# GPT_API_KEY=your_key_here
+# GPT_API_ENDPOINT=your_endpoint_here
+# GPT_DEPLOYMENT=gpt-4o
 
